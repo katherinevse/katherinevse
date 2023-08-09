@@ -1,4 +1,4 @@
-Hi 👋 My name is Katherine Evsevitch
+Hi 👋 My name is Katherine Evse
 ====================================
 
 I'm beginner programmer
