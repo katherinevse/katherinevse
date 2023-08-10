@@ -4,12 +4,9 @@ Hi 👋 I'm Katherine Evse
 I'm beginner programmer
 -----------------------
 
-* 🌍  I'm based in Moscow, Russia
-
 <p align="center">
  <img width="600" src="resources/github-snake.svg" alt="snake"/>
 </p>
-
 
 ### Skills
 
