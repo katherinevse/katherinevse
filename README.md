@@ -5,13 +5,13 @@ Hi 👋 I'm Katherine Evse
 
 ## 🚀 About Me
 
-👋 Привет! Меня зовут Катерина
+👋 Hello! My name is Katerina.
 
-🚀 Студент школы 21
+🚀 I'm a student at School 21.
 
-💡 Моя цель - стать квалифицированным разработчиком и внести свой вклад в мир IT.
+💡 My goal is to become a skilled developer and contribute to the world of IT.
 
-🌱 Имею базовое понимание алгоритмов и структур данных, исследую их для создания более эффективных решений.
+🌱 I have a basic understanding of algorithms and data structures, exploring them to create more efficient solutions.
 
 <p align="center">
  <img width="600" src="resources/github-snake.svg" alt="snake"/>
