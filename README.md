@@ -5,7 +5,7 @@ Hi 👋 I'm Katherine Evse
 
 ## 🚀 About Me
 
-👋 Hello! My name is Katerina.
+👋 Hello! My name is Katherine.
 
 🚀 I'm a student at School 21.
 
