@@ -13,9 +13,6 @@ Hi 👋 I'm Katherine Evse
 
 🌱 I have a basic understanding of algorithms and data structures, exploring them to create more efficient solutions.
 
-<p align="center">
- <img width="600" src="resources/github-snake.svg" alt="snake"/>
-</p>
 
 
 ### Skills
