@@ -7,7 +7,7 @@ Hi 👋 I'm Katherine Evse
 
 👋 Hello! My name is Katherine.
 
-🚀 I'm a student at School 21.
+🚀 I'm a student at School 21 (Ecole 42)
 
 💡 My goal is to become a skilled developer and contribute to the world of IT.
 
