@@ -49,4 +49,4 @@ Hi 👋 I'm Katherine Evse
 
 ### 💻 Codewars:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Leetcode Stats](https://leetcard.katherinevse/katherinevse)
