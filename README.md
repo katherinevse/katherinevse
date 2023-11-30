@@ -3,7 +3,7 @@ Hi 👋 I'm Katherine Evse
 
 -----------------------
 
-## 🚀 About Me
+### About Me
 
 👋 Hello! My name is Katherine.
 
