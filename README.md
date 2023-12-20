@@ -51,4 +51,4 @@ Hi 👋 I'm Katherine Evse
 
 ### 💻 LeetCode:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/katherinevse?theme=dark&font=Arya&ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/katherinevse?theme=dark&font=Armata)
