@@ -32,17 +32,6 @@ Hi 👋 I'm Katherine Evse
 </p>
 
 
-### Socials:
-
-<div id="badges">
-  <a href="https://t.me/katherinevse" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="36" height="36" alt="telegram group" />
-  </a>
-  <a href="https://vk.com/freakskate" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="36" height="36" alt="VK Badge"/>
-  </a>
-</div>
-
 ### My GitHub Stats:
 <p align = 'left'>
  <a href="https://github-readme-stats.vercel.app/api?username=katherinevse&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=katherinevse&show_icons=true&count_private=true&bg_color=000000" /></a>
