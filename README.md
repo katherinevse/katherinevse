@@ -38,8 +38,3 @@ Hi 👋 I'm Katherine Evse
 <a href="https://github.com/katherinevse/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherinevse&layout=compact&bg_color=000000" /></a>
  </p>
 
-
-
-### 💻 LeetCode:
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/katherinevse?theme=dark&font=Armata)
