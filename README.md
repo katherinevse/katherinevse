@@ -11,8 +11,6 @@ Hi 👋 I'm Katherine Evse
 
 💡 My goal is to become a skilled developer and contribute to the world of IT.
 
-🌱 I have a basic understanding of algorithms and data structures, exploring them to create more efficient solutions.
-
 
 
 ### Skills:
