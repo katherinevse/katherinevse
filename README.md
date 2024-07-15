@@ -29,10 +29,3 @@ Hi 👋 I'm Katherine Evse
 
 </p>
 
-
-### My GitHub Stats:
-<p align = 'left'>
- <a href="https://github-readme-stats.vercel.app/api?username=katherinevse&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=katherinevse&show_icons=true&count_private=true&bg_color=000000" /></a>
-<a href="https://github.com/katherinevse/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherinevse&layout=compact&bg_color=000000" /></a>
- </p>
-
