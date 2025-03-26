@@ -5,13 +5,10 @@ Hi 👋 I'm Katherine Evse
 
 ### About Me
 
-👋 Hello! My name is Katherine.
-
-🚀 I'm a student at School 21 (Ecole 42)
-
-💡 My goal is to become a skilled developer and contribute to the world of IT.
-
-
+🐹 **Role:** Backend Go Developer  
+🎓 **Education:** Student at School 21 (Ecole 42)  
+💡 **Goal:** Write clean, efficient commercial code and continuously improve as a developer.  
+🌱 **Interests:** Building scalable systems, learning new technologies, and contributing to open-source projects.
 
 ### Skills:
 
